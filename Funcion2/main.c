@@ -8,6 +8,11 @@ int contarCaracteres(char cadena[], char caracter);
 int main()
 {
 
+
+printf("Pureba echea");
+
+
+
     char cadena[20];
     char caracter;
 
